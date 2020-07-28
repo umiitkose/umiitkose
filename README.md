@@ -12,9 +12,9 @@
 
 ## 📝 How to access my blog post
 
-[![Medium Badge]I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
+I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
 
-(https://img.shields.io/badge/umiitkose.com-follow%20my%20Blog-blue?style=for-the-badge&logo=linkedin)](https://www.umiitkose.com)
+[![Medium Badge](https://img.shields.io/badge/umiitkose.com-follow%20my%20Blog-blue?style=for-the-badge&logo=linkedin)](https://www.umiitkose.com)
 
 ## 📫 How to reach me
 
