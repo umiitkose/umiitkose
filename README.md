@@ -13,16 +13,15 @@
 ## 📝 How to access my blog post
 
 [![Umiitkose.com ->](https://umiitkose.com)
-[![Mshowto Badge](https://img.shields.io/badge/EcemOKAN-Mshowto-blue?style=for-the-badge&logo=post)](https://www.mshowto.org/author/ecemokan)
 
 
 ## 📫 How to reach me
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/EcemOKAN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%BCmit-k%C3%B6se-11b803a7/)
+[![Linkedin Badge](https://img.shields.io/badge/umiitkose-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%C3%BCmit-k%C3%B6se-11b803a7/)
 
-[![Twitter Badge](https://img.shields.io/badge/EcemOKAN-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/umiitkose)
+[![Twitter Badge](https://img.shields.io/badge/umiitkose-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/umiitkose)
 
 
 
