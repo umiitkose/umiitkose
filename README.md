@@ -12,7 +12,9 @@
 
 ## 📝 How to access my blog post
 
-I'm writing about Android, Kotlin, Web Services (Soap & Rest ) -> Umiitkose.com
+I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
+
+[![Linkedin Badge](https://img.shields.io/badge/umiitkose-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.umiitkose.com)
 
 ## 📫 How to reach me
 
