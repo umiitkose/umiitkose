@@ -10,10 +10,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=umiitkose&layout=compact&hide=javascript,html" alt="ETop Langs" />
 </p>
 
-## 💬 Ask me about
-
-<code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-
 ## 📝 How to access my blog post
 
 [![Umiitkose.com ->](https://umiitkose.com)
