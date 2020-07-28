@@ -14,7 +14,7 @@
 
 I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
 
-[![Linkedin Badge](https://img.shields.io/badge/umiitkose-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.umiitkose.com)
+[![Linkedin Badge](https://img.shields.io/badge/umiitkose.com-follow%20my%20Blog-blue?style=for-the-badge&logo=linkedin)](https://www.umiitkose.com)
 
 ## 📫 How to reach me
 
