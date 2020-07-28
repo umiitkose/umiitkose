@@ -12,8 +12,7 @@
 
 ## 📝 How to access my blog post
 
-[![Umiitkose.com ->](https://umiitkose.com)
-
+I'm writing about Android, Kotlin, Web Services (Soap & Rest ) -> Umiitkose.com
 
 ## 📫 How to reach me
 
