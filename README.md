@@ -1,15 +1,14 @@
 # Hello World! 👋
 
 ✨ My name is **Ümit KÖSE**, I am a software engineer from Turkey. I 'm working in Türksat. <br>
-![](https://komarev.com/ghpvc/?username=umiitkose)
 ## 📝 How to access my blog post
 
 I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
+![](https://komarev.com/ghpvc/?username=umiitkose)
 
 [![Medium Badge](https://img.shields.io/badge/umiitkose.com-follow%20my%20Blog-blue?style=for-the-badge&logo=)](https://www.umiitkose.com)
 
 
-![](https://komarev.com/ghpvc/?username=umiitkose)
 <p align="center">
     <a href="#">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=umiitkose&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
