@@ -3,7 +3,7 @@
 ✨ My name is **Ümit KÖSE**, I am a software engineer from Turkey. I 'm working in Türksat. <br>
 ## 📝 How to access my blog post
 
-I'm writing about Android, Kotlin, Web Services (Soap & Rest ) 
+I'm writing about Android, Kotlin, Web Services (Soap & Rest ) <br>
 ![](https://komarev.com/ghpvc/?username=umiitkose)
 
 [![Medium Badge](https://img.shields.io/badge/umiitkose.com-follow%20my%20Blog-blue?style=for-the-badge&logo=)](https://www.umiitkose.com)
