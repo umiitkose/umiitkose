@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umiitkose&label=Profile%20views&color=0e75b6&style=flat" alt="umiitkose" /> </p>
 
-<p align="left"> <a href="https://twitter.com/umiitkose" target="blank"><img src="https://img.shields.io/twitter/follow/umiitkose?logo=twitter&style=for-the-badge" alt="umiitkose" /></a> </p>
-
 - 🔭 I’m currently working on [e-devlet](https://turkiye.gov.tr)
 
 - 🌱 I’m currently learning **Spring boot, java, php, react**
